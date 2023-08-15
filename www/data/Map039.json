@@ -3256,8 +3256,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エッチなこと、したいな",
                                     "紙ヒコーキで遊ぼ",
+                                    "エッチなこと、したいな",
                                     "また今度、遊ぼ"
                                 ],
                                 2,
@@ -3271,85 +3271,6 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "エッチなこと、したいな"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ユウくん>「ふふ、そうなんだ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いいよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　じゃあ、ボク君のお部屋にいこっか♥」"
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 1,
-                            "parameters": [
-                                "SceneManager._scene._spriteset._fadeSprite.setColor(255, 255, 255);"
-                            ]
-                        },
-                        {
-                            "code": 221,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 201,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                22,
-                                21,
-                                7,
-                                4,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 1,
-                            "parameters": [
-                                155,
-                                155,
-                                0,
-                                0,
-                                6
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
-                            "indent": 0,
-                            "parameters": [
-                                1,
                                 "紙ヒコーキで遊ぼ"
                             ]
                         },
@@ -3507,6 +3428,85 @@
                             "indent": 1,
                             "parameters": [
                                 144
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "エッチなこと、したいな"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<ユウくん>「ふふ、そうなんだ？♥"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "　いいよ♥"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "　じゃあ、ボク君のお部屋にいこっか♥」"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "SceneManager._scene._spriteset._fadeSprite.setColor(255, 255, 255);"
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                22,
+                                21,
+                                7,
+                                4,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                155,
+                                155,
+                                0,
+                                0,
+                                6
                             ]
                         },
                         {

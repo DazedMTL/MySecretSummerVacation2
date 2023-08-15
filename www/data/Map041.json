@@ -4171,8 +4171,8 @@
                     "conditions": {
                         "actorId": 1,
                         "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
+                        "itemId": 29,
+                        "itemValid": true,
                         "selfSwitchCh": "A",
                         "selfSwitchValid": false,
                         "switch1Id": 1,
@@ -8777,21 +8777,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<おばさん>「あらあら、欲張りさんね♥"
+                                "\\N<おばさん>「あらあら、正直ね…♥"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　でも、男の子だもの、"
+                                "　そんなに素直に求められたら"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　そうじゃなくちゃね♥"
+                                "　おばさんも、欲しくなっちゃうわ…♥"
                             ]
                         },
                         {

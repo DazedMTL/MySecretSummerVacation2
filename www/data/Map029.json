@@ -52,7 +52,7 @@
         6610,
         6832,
         6615,
-        6832,
+        6816,
         6824,
         3002,
         6844,
@@ -71,9 +71,9 @@
         3002,
         6844,
         3002,
-        6832,
+        6844,
         6621,
-        6832,
+        6816,
         6824,
         2992,
         6615,
@@ -92,9 +92,9 @@
         2992,
         6615,
         2992,
-        6832,
+        6615,
         3002,
-        6832,
+        6816,
         6824,
         2992,
         6621,
@@ -113,9 +113,9 @@
         2992,
         6621,
         2992,
-        6844,
+        6621,
         2992,
-        6832,
+        6816,
         6824,
         2979,
         2993,
@@ -136,7 +136,7 @@
         2975,
         2993,
         2999,
-        6832,
+        6816,
         6824,
         2992,
         6842,
@@ -157,7 +157,7 @@
         2992,
         6834,
         6820,
-        6826,
+        6801,
         6824,
         2992,
         6832,
@@ -178,7 +178,7 @@
         2992,
         6816,
         6800,
-        6824,
+        6800,
         6824,
         3004,
         6832,
@@ -199,7 +199,7 @@
         3004,
         6816,
         6800,
-        6824,
+        6800,
         6806,
         6833,
         6815,
@@ -220,7 +220,7 @@
         6833,
         6813,
         6828,
-        6825,
+        6808,
         6824,
         6610,
         6832,
@@ -241,7 +241,7 @@
         6610,
         6832,
         6610,
-        6832,
+        6816,
         6824,
         3002,
         6844,
@@ -262,7 +262,7 @@
         6616,
         6844,
         3002,
-        6832,
+        6816,
         6824,
         2992,
         6615,
@@ -283,7 +283,7 @@
         3002,
         6615,
         2992,
-        6832,
+        6816,
         6824,
         2992,
         6621,
@@ -304,7 +304,7 @@
         2992,
         6621,
         2992,
-        6832,
+        6816,
         6824,
         2979,
         2993,
@@ -325,7 +325,7 @@
         2991,
         2993,
         2999,
-        6832,
+        6816,
         6824,
         2992,
         6842,
@@ -4634,6 +4634,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -4647,11 +4727,151 @@
                             ]
                         },
                         {
-                            "code": 117,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                242,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
                             "parameters": [
                                 351
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、攻略出来ていません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -10082,6 +10302,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -10100,6 +10400,86 @@
                             "parameters": [
                                 232
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -10507,6 +10887,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -10525,6 +10985,86 @@
                             "parameters": [
                                 242
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -10932,6 +11472,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -10950,6 +11570,86 @@
                             "parameters": [
                                 252
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -11413,6 +12113,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -11426,11 +12206,151 @@
                             ]
                         },
                         {
-                            "code": 117,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                249,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
                             "parameters": [
                                 264
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、攻略出来ていません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -12541,6 +13461,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -12559,6 +13559,86 @@
                             "parameters": [
                                 272
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -12966,6 +14046,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -12984,6 +14144,86 @@
                             "parameters": [
                                 282
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -13391,6 +14631,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -13409,6 +14729,86 @@
                             "parameters": [
                                 312
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -13851,6 +15251,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -13864,11 +15344,151 @@
                             ]
                         },
                         {
-                            "code": 117,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                254,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
                             "parameters": [
                                 303
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、攻略できていません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -14297,6 +15917,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -14310,11 +16010,151 @@
                             ]
                         },
                         {
-                            "code": 117,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                252,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
                             "parameters": [
                                 293
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、攻略出来ていません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -14715,6 +16555,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -14728,11 +16648,151 @@
                             ]
                         },
                         {
-                            "code": 117,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                259,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
                             "parameters": [
                                 322
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、攻略出来ていません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -15713,6 +17773,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 2,
                             "parameters": []
@@ -15731,6 +17871,86 @@
                             "parameters": [
                                 332
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -15894,6 +18114,86 @@
                             "parameters": []
                         },
                         {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
                             "code": 0,
                             "indent": 2,
                             "parameters": []
@@ -15912,6 +18212,86 @@
                             "parameters": [
                                 332
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -15994,6 +18374,86 @@
                         },
                         {
                             "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 2,
+                            "parameters": [
+                                [
+                                    "これでおわる",
+                                    "別のシーンを見る"
+                                ],
+                                0,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                "これでおわる"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "別のシーンを見る"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
                             "indent": 2,
                             "parameters": []
                         },
@@ -16186,7 +18646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#どこかにぐっする眠れるお花があるらしい…"
+                                "\\#どこかにぐっすり眠れるお花があるらしい…"
                             ]
                         },
                         {
@@ -20493,6 +22953,52 @@
                             ]
                         },
                         {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                11,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                39,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                39,
+                                39,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
                             "code": 117,
                             "indent": 0,
                             "parameters": [
@@ -21134,6 +23640,43 @@
                             "parameters": [
                                 2
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                11,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                39,
+                                39,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 235,

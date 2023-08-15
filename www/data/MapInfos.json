@@ -18,7 +18,15 @@
         "scrollX": 775.5,
         "scrollY": 895.5
     },
-    null,
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "学校（祭り）",
+        "order": 56,
+        "parentId": 43,
+        "scrollX": 775.5,
+        "scrollY": 895.5
+    },
     {
         "id": 4,
         "expanded": true,
@@ -43,8 +51,8 @@
         "name": "橋",
         "order": 25,
         "parentId": 0,
-        "scrollX": 832,
-        "scrollY": 640
+        "scrollX": 775.5,
+        "scrollY": 895.5
     },
     {
         "id": 7,
@@ -241,7 +249,7 @@
         "name": "OP",
         "order": 4,
         "parentId": 2,
-        "scrollX": 1144.5,
+        "scrollX": 775.5,
         "scrollY": 887.5
     },
     {
@@ -270,7 +278,7 @@
         "name": "自販機",
         "order": 28,
         "parentId": 4,
-        "scrollX": 706,
+        "scrollX": 775.5,
         "scrollY": 895.5
     },
     {
@@ -356,7 +364,7 @@
     },
     {
         "id": 43,
-        "expanded": false,
+        "expanded": true,
         "name": "学校",
         "order": 55,
         "parentId": 42,
@@ -367,7 +375,7 @@
         "id": 44,
         "expanded": true,
         "name": "裏山",
-        "order": 56,
+        "order": 57,
         "parentId": 42,
         "scrollX": 775.5,
         "scrollY": 895.5
@@ -396,7 +404,7 @@
         "name": "洞窟",
         "order": 38,
         "parentId": 18,
-        "scrollX": 1173.5,
+        "scrollX": 775.5,
         "scrollY": 895.5
     },
     {
@@ -442,7 +450,7 @@
         "order": 13,
         "parentId": 16,
         "scrollX": 1632.5,
-        "scrollY": 1496.5
+        "scrollY": 1512.5
     },
     {
         "id": 53,
