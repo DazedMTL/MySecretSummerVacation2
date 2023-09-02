@@ -9606,6 +9606,280 @@
                             ]
                         },
                         {
+                            "code": 111,
+                            "indent": 3,
+                            "parameters": [
+                                0,
+                                72,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 4,
+                            "parameters": [
+                                1,
+                                1,
+                                0,
+                                20,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 5,
+                            "parameters": [
+                                22,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "02_boys01_SS",
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 5,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "02_boys01_SS",
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 5,
+                            "parameters": [
+                                17,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "02_boys01_SS2",
+                                                1
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 5,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "02_boys01_SS2",
+                                        1
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 5,
+                            "parameters": [
+                                18,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "02_boys01_SS2",
+                                                2
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 5,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "02_boys01_SS2",
+                                        2
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 5,
+                            "parameters": [
+                                19,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "01_Kids01_SS",
+                                                3
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 5,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "01_Kids01_SS",
+                                        3
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 5,
+                            "parameters": [
+                                20,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "01_Kids01_SS",
+                                                1
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 5,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "01_Kids01_SS",
+                                        1
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 5,
+                            "parameters": [
+                                21,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "01_Kids01_SS",
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 5,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "01_Kids01_SS",
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
                             "code": 230,
                             "indent": 3,
                             "parameters": [
@@ -17922,7 +18196,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "　負けっちゃったんだ？"
+                                "　負けちゃったんだ？"
                             ]
                         },
                         {
@@ -17972,7 +18246,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "　負けっちゃったんだ？"
+                                "　負けちゃったんだ？"
                             ]
                         },
                         {
@@ -21534,7 +21808,7 @@
                         "wait": false
                     },
                     "moveSpeed": 4,
-                    "moveType": 2,
+                    "moveType": 0,
                     "priorityType": 1,
                     "stepAnime": false,
                     "through": true,

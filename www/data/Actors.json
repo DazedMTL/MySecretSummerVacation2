@@ -957,8 +957,8 @@
     {
         "id": 49,
         "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
+        "characterIndex": 1,
+        "characterName": "01_Lady_N",
         "classId": 1,
         "equips": [
             0,
@@ -972,7 +972,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "",
+        "name": "ハカセくんのお母さん（裸）",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -980,8 +980,8 @@
     {
         "id": 50,
         "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
+        "characterIndex": 1,
+        "characterName": "01_Lady",
         "classId": 1,
         "equips": [
             0,
@@ -995,7 +995,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "",
+        "name": "ハカセくんのお母さん",
         "nickname": "",
         "note": "",
         "profile": ""

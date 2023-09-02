@@ -2381,6 +2381,128 @@
                             ]
                         },
                         {
+                            "code": 111,
+                            "indent": 4,
+                            "parameters": [
+                                1,
+                                15,
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 5,
+                            "parameters": [
+                                1,
+                                457,
+                                1,
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 6,
+                            "parameters": [
+                                1,
+                                2,
+                                0,
+                                16,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 7,
+                            "parameters": [
+                                147
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 7,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 8,
+                            "parameters": [
+                                345,
+                                345,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 8,
+                            "parameters": [
+                                460,
+                                460,
+                                0,
+                                0,
+                                182
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 8,
+                            "parameters": [
+                                457,
+                                457,
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
                             "code": 201,
                             "indent": 4,
                             "parameters": [
@@ -3266,7 +3388,7 @@
                         "wait": false
                     },
                     "moveSpeed": 4,
-                    "moveType": 2,
+                    "moveType": 0,
                     "priorityType": 1,
                     "stepAnime": false,
                     "through": true,

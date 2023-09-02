@@ -1880,7 +1880,7 @@
         23,
         0,
         0,
-        0,
+        85,
         0,
         0,
         0,
@@ -4160,7 +4160,7 @@
                 }
             ],
             "x": 8,
-            "y": 3
+            "y": 4
         },
         {
             "id": 26,
@@ -4392,11 +4392,11 @@
                     },
                     "moveSpeed": 2,
                     "moveType": 0,
-                    "priorityType": 2,
+                    "priorityType": 1,
                     "stepAnime": false,
                     "through": false,
                     "trigger": 0,
-                    "walkAnime": true
+                    "walkAnime": false
                 }
             ],
             "x": 8,

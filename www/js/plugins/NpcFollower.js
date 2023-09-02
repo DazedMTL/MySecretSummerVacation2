@@ -1,16 +1,21 @@
 //=============================================================================
 // NpcFollower.js
 // ----------------------------------------------------------------------------
-// Copyright (c) 2015 Triacontane
+// (C) 2016 Triacontane
 // This software is released under the MIT License.
 // http://opensource.org/licenses/mit-license.php
 // ----------------------------------------------------------------------------
 // Version
+// 1.2.0 2022/09/17 アクターIDを指定してNPCを削除できるコマンドを追加
+// 1.1.2 2022/05/10 パラメータの説明文を修正
+// 1.1.1 2019/11/02 1.1.0の修正でメンバーの入れ替えを実施すると表示が不正になる場合がある問題を修正
+// 1.1.0 2019/01/27 通常のフォロワーを表示せず、NPCフォロワーのみを表示できる機能を追加
+// 1.0.3 2018/08/06 コアスクリプトが1.6.0より古い場合にエラーになる記述を修正
 // 1.0.2 2017/01/17 プラグインコマンドが小文字でも動作するよう修正（byこまちゃん先輩）
 // 1.0.1 2016/07/17 セーブデータをロードした際のエラーになる現象の修正
 // 1.0.0 2016/07/14 初版
 // ----------------------------------------------------------------------------
-// [Blog]   : http://triacontane.blogspot.jp/
+// [Blog]   : https://triacontane.blogspot.jp/
 // [Twitter]: https://twitter.com/triacontane/
 // [GitHub] : https://github.com/triacontane/
 //=============================================================================
@@ -22,6 +27,11 @@
  * @param MaxNpcNumber
  * @desc 同時に隊列に存在できるNPCの最大数です。
  * @default 1
+ *
+ * @param HideNormalFollower
+ * @desc 通常のフォロワーを一切表示せず、NPCフォロワーのみを表示します。データベースの隊列歩行は有効にしてください。
+ * @default false
+ * @type boolean
  *
  * @help マップ上の隊列の好きな位置にパーティメンバー以外のNPCを追加します。
  * NPCはデータベース上はアクターで定義してプラグインコマンドから追加、削除します。
@@ -51,6 +61,13 @@
  * @param 最大同時NPC数
  * @desc 同時に隊列に存在できるNPCの最大数です。
  * @default 1
+ * @type number
+ * @min 1
+ *
+ * @param 通常フォロワーを表示しない
+ * @desc 通常のフォロワーを一切表示せず、NPCフォロワーのみを表示します。データベースの隊列歩行は有効にしてください。
+ * @default false
+ * @type boolean
  *
  * @help マップ上の隊列の好きな位置にパーティメンバー以外のNPCを追加します。
  * NPCはデータベース上はアクターで定義してプラグインコマンドから追加、削除します。
@@ -70,6 +87,10 @@
  *
  * インデックスの指定は追加したNPCとは関係なく、
  * パーティの並び順(1...バトルメンバー数)を指定してください。
+ *
+ * 並び順ではなくIDを指定したNPCを削除したい場合、以下のコマンドです。
+ * NF_NPC_ID削除 4 # アクターID[4]のNPCを削除
+ * NF_REM_NPC_ID 4 # 同上
  *
  * 利用規約：
  *  作者に無断で改変、再配布が可能で、利用形態（商用、18禁利用等）
@@ -95,6 +116,11 @@
         return null;
     };
 
+    var getParamBoolean = function (paramNames) {
+        var value = getParamOther(paramNames);
+        return (value || '').toUpperCase() === 'TRUE';
+    };
+
     var getParamNumber = function (paramNames, min, max) {
         var value = getParamOther(paramNames);
         if (arguments.length < 2) min = -Infinity;
@@ -118,6 +144,7 @@
     // パラメータの取得と整形
     //=============================================================================
     var paramMaxNpcNumber = getParamNumber(['MaxNpcNumber', '最大同時NPC数']);
+    var paramHideNormalFollower = getParamBoolean(['HideNormalFollower', '通常フォロワーを表示しない']);
 
     //=============================================================================
     // Game_Interpreter
@@ -126,24 +153,7 @@
     var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
     Game_Interpreter.prototype.pluginCommand = function (command, args) {
         _Game_Interpreter_pluginCommand.apply(this, arguments);
-        if (!command.match(new RegExp('^' + metaTagPrefix, 'i'))) return;
-        try {
-            this.pluginCommandNpcFollower(command.replace(new RegExp(metaTagPrefix, 'i'), ''), args);
-        } catch (e) {
-            if ($gameTemp.isPlaytest() && Utils.isNwjs()) {
-                var window = require('nw.gui').Window.get();
-                if (!window.isDevToolsOpen()) {
-                    var devTool = window.showDevTools();
-                    devTool.moveTo(0, 0);
-                    devTool.resizeTo(window.screenX + window.outerWidth, window.screenY + window.outerHeight);
-                    window.focus();
-                }
-            }
-            console.log('プラグインコマンドの実行中にエラーが発生しました。');
-            console.log('- コマンド名 　: ' + command);
-            console.log('- コマンド引数 : ' + args);
-            console.log('- エラー原因   : ' + e.stack || e.toString());
-        }
+        this.pluginCommandNpcFollower(command.replace(new RegExp(metaTagPrefix, 'i'), ''), args);
     };
 
     Game_Interpreter.prototype.pluginCommandNpcFollower = function (command, args) {
@@ -157,6 +167,10 @@
             case '_REM_NPC':
                 $gameParty.removeNpc(getArgNumberWithEval(args[0], 1));
                 break;
+            case '_NPC_ID削除':
+            case '_REM_NPC_ID':
+                var removeActorId = getArgNumberWithEval(args[0]);
+                $gameParty.removeNpcById(removeActorId);
         }
     };
 
@@ -209,6 +223,18 @@
         $gameMap.requestRefresh();
     };
 
+    Game_Party.prototype.removeNpcById = function (id) {
+        for (var i = 0, n = this._npcs.length; i < n; i++) {
+            if (this._npcs[i] === id) {
+                this._npcs.splice(i, 1);
+                this._npcIndexes.splice(i, 1);
+                i--;
+            }
+        }
+        $gamePlayer.refresh();
+        $gameMap.requestRefresh();
+    };
+
     Game_Party.prototype.npcMembers = function () {
         return this._npcs.map(function (id) {
             return $gameActors.actor(id);
@@ -225,9 +251,13 @@
         var visibleMembers = [];
         for (var i = 0, n = this.maxBattleMembers() + 1; i < n; i++) {
             for (var j = 0, m = npcMembers.length; j < m; j++) {
-                if (this._npcIndexes[j] === i) visibleMembers.push(npcMembers[j]);
+                if (this._npcIndexes[j] === i) {
+                    visibleMembers.push(npcMembers[j]);
+                }
             }
-            if (battleMembers.length > i) visibleMembers.push(battleMembers[i]);
+            if (battleMembers.length > i && !paramHideNormalFollower) {
+                visibleMembers.push(battleMembers[i]);
+            }
         }
         this._visibleMembers = visibleMembers;
     };
@@ -239,11 +269,14 @@
     var _Game_Followers_initialize = Game_Followers.prototype.initialize;
     Game_Followers.prototype.initialize = function () {
         _Game_Followers_initialize.apply(this, arguments);
+        if (paramHideNormalFollower) {
+            this._data = [];
+        }
         this.initNpc();
     };
 
     Game_Followers.prototype.initNpc = function () {
-        var memberLength = $gameParty.maxBattleMembers();
+        var memberLength = this._data.length > 0 ? this._data.length + 1 : 0;
         for (var i = 0; i < paramMaxNpcNumber; i++) {
             this._data.push(new Game_Follower(memberLength + i));
         }

@@ -741,6 +741,202 @@
 			{
 				"Name": "Toilet",
 				"File": "expressions/Toilet.exp3.json"
+			},
+			{
+				"Name": "WC_EX",
+				"File": "expressions/WC_EX.exp3.json"
+			},
+			{
+				"Name": "WC_BS",
+				"File": "expressions/WC_BS.exp3.json"
+			},
+			{
+				"Name": "WC_FM",
+				"File": "expressions/WC_FM.exp3.json"
+			},
+			{
+				"Name": "WC_JC",
+				"File": "expressions/WC_JC.exp3.json"
+			},
+			{
+				"Name": "WC_JS",
+				"File": "expressions/WC_JS.exp3.json"
+			},
+			{
+				"Name": "WC_LS",
+				"File": "expressions/WC_LS.exp3.json"
+			},
+			{
+				"Name": "WC_AU",
+				"File": "expressions/WC_AU.exp3.json"
+			},
+			{
+				"Name": "WC_Boy",
+				"File": "expressions/WC_Boy.exp3.json"
+			},
+			{
+				"Name": "WC_MA",
+				"File": "expressions/WC_MA.exp3.json"
+			},
+			{
+				"Name": "WC_SF",
+				"File": "expressions/WC_SF.exp3.json"
+			},
+			{
+				"Name": "WC_UN",
+				"File": "expressions/WC_UN.exp3.json"
+			},
+			{
+				"Name": "WC_WG",
+				"File": "expressions/WC_WG.exp3.json"
+			},
+			{
+				"Name": "P_MB_AU00",
+				"File": "expressions/P_MB_AU00.exp3.json"
+			},
+			{
+				"Name": "P_MB_BS00",
+				"File": "expressions/P_MB_BS00.exp3.json"
+			},
+			{
+				"Name": "P_MB_Boy00",
+				"File": "expressions/P_MB_Boy00.exp3.json"
+			},
+			{
+				"Name": "P_MB_EX00",
+				"File": "expressions/P_MB_EX00.exp3.json"
+			},
+			{
+				"Name": "P_MB_FM00",
+				"File": "expressions/P_MB_FM00.exp3.json"
+			},
+			{
+				"Name": "P_MB_JC00",
+				"File": "expressions/P_MB_JC00.exp3.json"
+			},
+			{
+				"Name": "P_MB_JS00",
+				"File": "expressions/P_MB_JS00.exp3.json"
+			},
+			{
+				"Name": "P_MB_LS00",
+				"File": "expressions/P_MB_LS00.exp3.json"
+			},
+			{
+				"Name": "P_MB_MA00",
+				"File": "expressions/P_MB_MA00.exp3.json"
+			},
+			{
+				"Name": "P_MB_SF00",
+				"File": "expressions/P_MB_SF00.exp3.json"
+			},
+			{
+				"Name": "P_MB_UN00",
+				"File": "expressions/P_MB_UN00.exp3.json"
+			},
+			{
+				"Name": "P_MB_WG00",
+				"File": "expressions/P_MB_WG00.exp3.json"
+			},
+			{
+				"Name": "P_MB_AU01",
+				"File": "expressions/P_MB_AU01.exp3.json"
+			},
+			{
+				"Name": "P_MB_BS01",
+				"File": "expressions/P_MB_BS01.exp3.json"
+			},
+			{
+				"Name": "P_MB_Boy01",
+				"File": "expressions/P_MB_Boy01.exp3.json"
+			},
+			{
+				"Name": "P_MB_EX01",
+				"File": "expressions/P_MB_EX01.exp3.json"
+			},
+			{
+				"Name": "P_MB_FM01",
+				"File": "expressions/P_MB_FM01.exp3.json"
+			},
+			{
+				"Name": "P_MB_JC01",
+				"File": "expressions/P_MB_JC01.exp3.json"
+			},
+			{
+				"Name": "P_MB_JS01",
+				"File": "expressions/P_MB_JS01.exp3.json"
+			},
+			{
+				"Name": "P_MB_LS01",
+				"File": "expressions/P_MB_LS01.exp3.json"
+			},
+			{
+				"Name": "P_MB_MA01",
+				"File": "expressions/P_MB_MA01.exp3.json"
+			},
+			{
+				"Name": "P_MB_SF01",
+				"File": "expressions/P_MB_SF01.exp3.json"
+			},
+			{
+				"Name": "P_MB_UN01",
+				"File": "expressions/P_MB_UN01.exp3.json"
+			},
+			{
+				"Name": "P_MB_WG01",
+				"File": "expressions/P_MB_WG01.exp3.json"
+			},
+			{
+				"Name": "P_MB_AU02",
+				"File": "expressions/P_MB_AU02.exp3.json"
+			},
+			{
+				"Name": "P_MB_BS02",
+				"File": "expressions/P_MB_BS02.exp3.json"
+			},
+			{
+				"Name": "P_MB_Boy02",
+				"File": "expressions/P_MB_Boy02.exp3.json"
+			},
+			{
+				"Name": "P_MB_EX02",
+				"File": "expressions/P_MB_EX02.exp3.json"
+			},
+			{
+				"Name": "P_MB_FM02",
+				"File": "expressions/P_MB_FM02.exp3.json"
+			},
+			{
+				"Name": "P_MB_JC02",
+				"File": "expressions/P_MB_JC02.exp3.json"
+			},
+			{
+				"Name": "P_MB_JS02",
+				"File": "expressions/P_MB_JS02.exp3.json"
+			},
+			{
+				"Name": "P_MB_LS02",
+				"File": "expressions/P_MB_LS02.exp3.json"
+			},
+			{
+				"Name": "P_MB_MA02",
+				"File": "expressions/P_MB_MA02.exp3.json"
+			},
+			{
+				"Name": "P_MB_SF02",
+				"File": "expressions/P_MB_SF02.exp3.json"
+			},
+			{
+				"Name": "P_MB_UN02",
+				"File": "expressions/P_MB_UN02.exp3.json"
+			},
+			{
+				"Name": "P_MB_WG02",
+				"File": "expressions/P_MB_WG02.exp3.json"
+			},
+			{
+				"Name": "JC01",
+				"File": "expressions/JC01.exp3.json"
 			}
 		],
 		"Motions": {
@@ -886,6 +1082,12 @@
 				},
 				{
 					"File": "motions/Handjob_06_F.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_07_R.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_8_F.motion3.json"
 				}
 			],
 			"ACC": [
@@ -1060,6 +1262,9 @@
 				},
 				{
 					"File": "motions/BlowJob_10.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_11_F.motion3.json"
 				}
 			],
 			"CL": [

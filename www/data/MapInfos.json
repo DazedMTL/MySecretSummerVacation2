@@ -6,7 +6,7 @@
         "name": "テンプレート",
         "order": 1,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
@@ -15,50 +15,50 @@
         "name": "テスト",
         "order": 2,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 3,
         "expanded": false,
         "name": "学校（祭り）",
-        "order": 56,
+        "order": 57,
         "parentId": 43,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
         "id": 4,
         "expanded": true,
         "name": "バス停",
-        "order": 26,
+        "order": 27,
         "parentId": 6,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 5,
         "expanded": true,
         "name": "トンネル",
-        "order": 27,
+        "order": 28,
         "parentId": 4,
-        "scrollX": 689,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 6,
         "expanded": true,
         "name": "橋",
-        "order": 25,
+        "order": 26,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
         "id": 7,
         "expanded": false,
         "name": "三叉路",
-        "order": 30,
+        "order": 31,
         "parentId": 0,
         "scrollX": 1173.5,
         "scrollY": 895.5
@@ -69,7 +69,7 @@
         "name": "ペンション",
         "order": 7,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -78,7 +78,7 @@
         "name": "裏庭",
         "order": 11,
         "parentId": 8,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -87,14 +87,14 @@
         "name": "商店街",
         "order": 20,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
         "id": 11,
         "expanded": false,
         "name": "ホタル橋",
-        "order": 31,
+        "order": 32,
         "parentId": 0,
         "scrollX": 1173.5,
         "scrollY": 895.5
@@ -105,7 +105,7 @@
         "name": "スキー場",
         "order": 23,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -114,16 +114,16 @@
         "name": "スキーコース",
         "order": 24,
         "parentId": 12,
-        "scrollX": 767.5,
-        "scrollY": 1015.5
+        "scrollX": 841.5,
+        "scrollY": 3904.5
     },
     {
         "id": 14,
         "expanded": true,
         "name": "住宅街_東",
-        "order": 32,
+        "order": 33,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
@@ -132,7 +132,7 @@
         "name": "アトリエ",
         "order": 17,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -141,43 +141,43 @@
         "name": "秘密基地",
         "order": 12,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 17,
         "expanded": false,
         "name": "住宅街_西",
-        "order": 33,
+        "order": 34,
         "parentId": 14,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 18,
         "expanded": true,
         "name": "崖路",
-        "order": 36,
+        "order": 37,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 19,
         "expanded": true,
         "name": "裏道①",
-        "order": 39,
+        "order": 40,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 20,
         "expanded": true,
         "name": "郊外",
-        "order": 44,
+        "order": 45,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
@@ -186,7 +186,7 @@
         "name": "ペンション1階",
         "order": 8,
         "parentId": 8,
-        "scrollX": 1096.5,
+        "scrollX": 1022.5,
         "scrollY": 887.5
     },
     {
@@ -195,8 +195,8 @@
         "name": "ペンション2階",
         "order": 9,
         "parentId": 8,
-        "scrollX": 904.5,
-        "scrollY": 887.5
+        "scrollX": 849.5,
+        "scrollY": 895.5
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "name": "お店1階",
         "order": 21,
         "parentId": 10,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -213,7 +213,7 @@
         "name": "キャラメイク画面",
         "order": 3,
         "parentId": 2,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -222,7 +222,7 @@
         "name": "お店2階",
         "order": 22,
         "parentId": 10,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
@@ -231,7 +231,7 @@
         "name": "アトリエ1階",
         "order": 18,
         "parentId": 15,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -240,7 +240,7 @@
         "name": "アトリエ2階",
         "order": 19,
         "parentId": 15,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
@@ -249,7 +249,7 @@
         "name": "OP",
         "order": 4,
         "parentId": 2,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 887.5
     },
     {
@@ -258,169 +258,185 @@
         "name": "回想部屋",
         "order": 5,
         "parentId": 2,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
-    null,
-    null,
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "公衆トイレ",
+        "order": 25,
+        "parentId": 12,
+        "scrollX": 849.5,
+        "scrollY": 895.5
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "花火",
+        "order": 59,
+        "parentId": 42,
+        "scrollX": 849.5,
+        "scrollY": 895.5
+    },
     {
         "id": 32,
         "expanded": false,
         "name": "飛行機結果リザルト",
         "order": 6,
         "parentId": 2,
-        "scrollX": 701,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 33,
         "expanded": true,
         "name": "自販機",
-        "order": 28,
+        "order": 29,
         "parentId": 4,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 34,
         "expanded": false,
         "name": "自販機内部",
-        "order": 29,
+        "order": 30,
         "parentId": 4,
-        "scrollX": 530,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 35,
         "expanded": true,
         "name": "参道",
-        "order": 49,
+        "order": 50,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 36,
         "expanded": true,
         "name": "神社",
-        "order": 50,
+        "order": 51,
         "parentId": 35,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 37,
         "expanded": true,
         "name": "墓場",
-        "order": 52,
+        "order": 53,
         "parentId": 35,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 38,
         "expanded": true,
         "name": "裏道②",
-        "order": 40,
+        "order": 41,
         "parentId": 19,
-        "scrollX": 706,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 39,
         "expanded": true,
         "name": "空地",
-        "order": 41,
+        "order": 42,
         "parentId": 19,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 40,
         "expanded": true,
         "name": "別荘庭園",
-        "order": 42,
+        "order": 43,
         "parentId": 19,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 41,
         "expanded": false,
         "name": "別荘",
-        "order": 43,
+        "order": 44,
         "parentId": 19,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 42,
         "expanded": true,
         "name": "牧場",
-        "order": 54,
+        "order": 55,
         "parentId": 0,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 43,
         "expanded": true,
         "name": "学校",
-        "order": 55,
+        "order": 56,
         "parentId": 42,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 44,
         "expanded": true,
         "name": "裏山",
-        "order": 57,
+        "order": 58,
         "parentId": 42,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 45,
         "expanded": true,
         "name": "廃村",
-        "order": 53,
+        "order": 54,
         "parentId": 35,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 46,
         "expanded": true,
         "name": "抜け道",
-        "order": 37,
+        "order": 38,
         "parentId": 18,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 47,
         "expanded": false,
         "name": "洞窟",
-        "order": 38,
+        "order": 39,
         "parentId": 18,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 48,
         "expanded": false,
         "name": "川",
-        "order": 45,
+        "order": 46,
         "parentId": 20,
-        "scrollX": 1173.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 49,
         "expanded": false,
         "name": "中州",
-        "order": 46,
+        "order": 47,
         "parentId": 20,
         "scrollX": 530,
         "scrollY": 895.5
@@ -429,18 +445,18 @@
         "id": 50,
         "expanded": false,
         "name": "川向こうの森",
-        "order": 47,
+        "order": 48,
         "parentId": 20,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
         "id": 51,
         "expanded": false,
         "name": "秘密の滝",
-        "order": 48,
+        "order": 49,
         "parentId": 20,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
@@ -449,7 +465,7 @@
         "name": "ヒメノ湖",
         "order": 13,
         "parentId": 16,
-        "scrollX": 1632.5,
+        "scrollX": 1629.5,
         "scrollY": 1512.5
     },
     {
@@ -458,34 +474,34 @@
         "name": "湖の滝",
         "order": 16,
         "parentId": 16,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
         "id": 54,
         "expanded": false,
         "name": "友達の家1階",
-        "order": 34,
+        "order": 35,
         "parentId": 14,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
         "id": 55,
         "expanded": false,
         "name": "友達の家2階",
-        "order": 35,
+        "order": 36,
         "parentId": 14,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
         "id": 56,
         "expanded": false,
         "name": "神社の中",
-        "order": 51,
+        "order": 52,
         "parentId": 36,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
@@ -494,7 +510,7 @@
         "name": "テント（ナナちゃん）",
         "order": 14,
         "parentId": 52,
-        "scrollX": 775.5,
+        "scrollX": 778.5,
         "scrollY": 895.5
     },
     {
@@ -503,7 +519,7 @@
         "name": "テント",
         "order": 15,
         "parentId": 52,
-        "scrollX": 775.5,
+        "scrollX": 1047.5,
         "scrollY": 895.5
     },
     {
@@ -512,7 +528,7 @@
         "name": "屋根裏部屋",
         "order": 10,
         "parentId": 8,
-        "scrollX": 775.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     }
 ]

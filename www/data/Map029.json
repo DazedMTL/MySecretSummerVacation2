@@ -135,7 +135,7 @@
         2993,
         2975,
         2993,
-        2999,
+        2987,
         6816,
         6824,
         2992,
@@ -155,9 +155,9 @@
         2992,
         6842,
         2992,
-        6834,
-        6820,
-        6801,
+        6842,
+        2992,
+        6816,
         6824,
         2992,
         6832,
@@ -176,9 +176,9 @@
         2992,
         6832,
         2992,
+        6832,
+        2992,
         6816,
-        6800,
-        6800,
         6824,
         3004,
         6832,
@@ -197,9 +197,9 @@
         3004,
         6832,
         3004,
+        6832,
+        3004,
         6816,
-        6800,
-        6800,
         6806,
         6833,
         6815,
@@ -218,9 +218,9 @@
         6833,
         6815,
         6833,
-        6813,
-        6828,
-        6808,
+        6815,
+        6833,
+        6809,
         6824,
         6610,
         6832,
@@ -1458,7 +1458,7 @@
         0,
         0,
         0,
-        0,
+        300,
         0,
         0,
         0,
@@ -2088,7 +2088,7 @@
         0,
         309,
         0,
-        0,
+        301,
         0,
         0,
         0,
@@ -2697,7 +2697,7 @@
         0,
         5,
         0,
-        0,
+        5,
         0,
         0,
         5,
@@ -2718,7 +2718,7 @@
         0,
         5,
         0,
-        0,
+        5,
         0,
         0,
         0,
@@ -10308,6 +10308,34 @@
                                 1,
                                 19,
                                 0,
+                                231,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                240
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
                                 0,
                                 0
                             ]
@@ -10893,6 +10921,34 @@
                                 1,
                                 19,
                                 0,
+                                232,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                250
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
                                 0,
                                 0
                             ]
@@ -11450,7 +11506,7 @@
                                 1,
                                 19,
                                 0,
-                                246,
+                                232,
                                 0
                             ]
                         },
@@ -11458,7 +11514,35 @@
                             "code": 117,
                             "indent": 2,
                             "parameters": [
-                                251
+                                250
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                233,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                259
                             ]
                         },
                         {
@@ -13467,6 +13551,34 @@
                                 1,
                                 19,
                                 0,
+                                234,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                280
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
                                 0,
                                 0
                             ]
@@ -14618,6 +14730,34 @@
                             "indent": 2,
                             "parameters": [
                                 311
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                19,
+                                0,
+                                236,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                319
                             ]
                         },
                         {
@@ -22780,6 +22920,280 @@
                             ]
                         },
                         {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "お気に入りのチラシの人",
+                                    "知ってる人"
+                                ],
+                                -1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "お気に入りのチラシの人"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 2,
+                            "parameters": [
+                                "setEventItemSubCategory char"
+                            ]
+                        },
+                        {
+                            "code": 104,
+                            "indent": 2,
+                            "parameters": [
+                                18,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "知ってる人"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 2,
+                            "parameters": [
+                                "setEventItemSubCategory UniqueChar"
+                            ]
+                        },
+                        {
+                            "code": 104,
+                            "indent": 2,
+                            "parameters": [
+                                18,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                18,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                158
+                            ]
+                        },
+                        {
+                            "code": 115,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                460,
+                                460,
+                                0,
+                                1,
+                                18
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                112
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": false
+                }
+            ],
+            "x": 19,
+            "y": 3
+        },
+        {
+            "id": 70,
+            "name": "EV070",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!1x1_5door3",
+                        "direction": 2,
+                        "pattern": 0,
+                        "characterIndex": 0
+                    },
+                    "list": [
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                160
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "SceneManager._scene._spriteset._fadeSprite.setColor(255, 255, 255);"
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "テレビのランダム生成は一日一回"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "モデル情報は300番に保存"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "次にテレビでランダム生成されるまで"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "一時的に保存される"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
+                            ]
+                        },
+                        {
                             "code": 118,
                             "indent": 1,
                             "parameters": [
@@ -22837,34 +23251,18 @@
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
+                                "setEventItemSubCategory UniqueChar"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 104,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\#準備中"
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "キャンセル"
+                                18,
+                                4
                             ]
                         },
                         {
@@ -22911,19 +23309,20 @@
                             "parameters": []
                         },
                         {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
                             "code": 412,
                             "indent": 0,
                             "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                460,
+                                460,
+                                0,
+                                1,
+                                18
+                            ]
                         },
                         {
                             "code": 122,
@@ -23499,11 +23898,467 @@
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 111,
                             "indent": 0,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                182,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_AU"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                183,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 2,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_BS"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                184,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 3,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_SF"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                185,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 4,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_EX"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 4,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                186,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 5,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_UN"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 5,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                187,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 6,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_FM"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 6,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                188,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 7,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_MA"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 7,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                189,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 8,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_JC"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 8,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                190,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 9,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_JS"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 9,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 9,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                191,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 10,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_LS"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 10,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 9,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 10,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                192,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 11,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_WG"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 11,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 10,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 11,
+                            "parameters": [
+                                1,
+                                460,
+                                0,
+                                193,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 12,
+                            "parameters": [
+                                "Live2d表情設定 FR WC_Boy"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 12,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 11,
+                            "parameters": []
+                        },
+                        {
+                            "code": 356,
+                            "indent": 12,
                             "parameters": [
                                 "Live2d表情設定 FR Toilet"
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 12,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 11,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 11,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 10,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 10,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 9,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 9,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 230,
@@ -23697,969 +24552,6 @@
                             "indent": 0,
                             "parameters": [
                                 "キャンセル"
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                158
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": []
-                        }
-                    ],
-                    "moveFrequency": 3,
-                    "moveRoute": {
-                        "list": [
-                            {
-                                "code": 0,
-                                "parameters": []
-                            }
-                        ],
-                        "repeat": true,
-                        "skippable": false,
-                        "wait": false
-                    },
-                    "moveSpeed": 3,
-                    "moveType": 0,
-                    "priorityType": 1,
-                    "stepAnime": false,
-                    "through": false,
-                    "trigger": 0,
-                    "walkAnime": false
-                }
-            ],
-            "x": 19,
-            "y": 3
-        },
-        {
-            "id": 70,
-            "name": "EV070",
-            "note": "",
-            "pages": [
-                {
-                    "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
-                        "selfSwitchCh": "A",
-                        "selfSwitchValid": false,
-                        "switch1Id": 1,
-                        "switch1Valid": false,
-                        "switch2Id": 1,
-                        "switch2Valid": false,
-                        "variableId": 1,
-                        "variableValid": false,
-                        "variableValue": 0
-                    },
-                    "directionFix": true,
-                    "image": {
-                        "tileId": 0,
-                        "characterName": "!1x1_5door3",
-                        "direction": 2,
-                        "pattern": 0,
-                        "characterIndex": 0
-                    },
-                    "list": [
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                18,
-                                18,
-                                0,
-                                0,
-                                183
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                160
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "SceneManager._scene._spriteset._fadeSprite.setColor(255, 255, 255);"
-                            ]
-                        },
-                        {
-                            "code": 221,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "テレビのランダム生成は一日一回"
-                            ]
-                        },
-                        {
-                            "code": 408,
-                            "indent": 0,
-                            "parameters": [
-                                "モデル情報は300番に保存"
-                            ]
-                        },
-                        {
-                            "code": 408,
-                            "indent": 0,
-                            "parameters": [
-                                "次にテレビでランダム生成されるまで"
-                            ]
-                        },
-                        {
-                            "code": 408,
-                            "indent": 0,
-                            "parameters": [
-                                "一時的に保存される"
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                18,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
-                            ]
-                        },
-                        {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "再選択"
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 1,
-                            "parameters": [
-                                [
-                                    "お気に入りのチラシの人",
-                                    "知ってる人"
-                                ],
-                                -1,
-                                0,
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                "お気に入りのチラシの人"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 2,
-                            "parameters": [
-                                "setEventItemSubCategory char"
-                            ]
-                        },
-                        {
-                            "code": 104,
-                            "indent": 2,
-                            "parameters": [
-                                18,
-                                4
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                "知ってる人"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 2,
-                            "parameters": [
-                                "setEventItemSubCategory UniqueChar"
-                            ]
-                        },
-                        {
-                            "code": 104,
-                            "indent": 2,
-                            "parameters": [
-                                18,
-                                4
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                18,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "再選択"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                20,
-                                20,
-                                0,
-                                4,
-                                "$gameVariables.value($gameVariables.value(18));"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                71
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 0,
-                            "parameters": [
-                                17,
-                                17,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR Position -1 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR AB_Pose 9 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR LB_Pose 11 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR OC 1.1 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR UC 4 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR UW 0 1"
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                5,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 1,
-                            "parameters": [
-                                "※服がズボンの時の処理"
-                            ]
-                        },
-                        {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 1,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR UC 5 1"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                6,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                7,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                11,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                12,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                19,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 1,
-                            "parameters": [
-                                "※服が水着の時の処理"
-                            ]
-                        },
-                        {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                3
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                20,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                21,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                22,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR player_C 0 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR player_PC 0 1"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                111,
-                                111,
-                                0,
-                                0,
-                                30
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                112,
-                                112,
-                                0,
-                                0,
-                                408
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                113,
-                                113,
-                                0,
-                                0,
-                                370
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                107,
-                                107,
-                                0,
-                                0,
-                                75
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                108,
-                                108,
-                                0,
-                                0,
-                                408
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                109,
-                                109,
-                                0,
-                                0,
-                                800
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                126,
-                                126,
-                                0,
-                                0,
-                                119
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "低身長時補正"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデルのスケール変更 FR $v111"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデルの移動 FR $v112 $v113 1"
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                2,
-                                "BG_Toilet",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                10,
-                                "AE_peep2",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR Erection 1 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2d表情設定 FR Toilet"
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                60
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "Liquid",
-                                    "volume": 50,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "SceneManager._scene._spriteset._fadeSprite.setColor(255, 255, 255);"
-                            ]
-                        },
-                        {
-                            "code": 221,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "toilet",
-                                    "volume": 25,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                18,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>（⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　出てきちゃう…⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どっかにいっちゃおー！）"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                125
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                10
                             ]
                         },
                         {
@@ -24804,14 +24696,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
+                                "\\N<ボク>（何か変な音がするような…？"
                             ]
                         },
                         {
-                            "code": 118,
+                            "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "再選択"
+                                "　誰かが中で、何かしてるのかな…？）"
                             ]
                         },
                         {
@@ -24822,7 +24714,7 @@
                                     "お気に入りのチラシの人",
                                     "知ってる人"
                                 ],
-                                -1,
+                                -2,
                                 0,
                                 1,
                                 0
@@ -24885,6 +24777,26 @@
                             "parameters": []
                         },
                         {
+                            "code": 403,
+                            "indent": 1,
+                            "parameters": [
+                                6,
+                                null
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "キャンセル"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
                             "code": 404,
                             "indent": 1,
                             "parameters": []
@@ -24901,11 +24813,28 @@
                             ]
                         },
                         {
-                            "code": 119,
+                            "code": 118,
                             "indent": 2,
                             "parameters": [
-                                "再選択"
+                                "キャンセル"
                             ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                158
+                            ]
+                        },
+                        {
+                            "code": 115,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -24915,16 +24844,6 @@
                         {
                             "code": 412,
                             "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
                             "parameters": []
                         },
                         {
@@ -24941,696 +24860,345 @@
                             "code": 122,
                             "indent": 0,
                             "parameters": [
-                                20,
-                                20,
+                                460,
+                                460,
                                 0,
-                                4,
-                                "$gameVariables.value($gameVariables.value(18));"
+                                1,
+                                18
                             ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    "指2本オナニー",
+                                    "指1本オナニー",
+                                    "クリオナニー",
+                                    "立ちオナニー",
+                                    "バイブ",
+                                    "二穴バイブ"
+                                ],
+                                -2,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                "指2本オナニー"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                127,
+                                127,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "指1本オナニー"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                127,
+                                127,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                "クリオナニー"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                127,
+                                127,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                "立ちオナニー"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                127,
+                                127,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                "バイブ"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                247,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                127,
+                                127,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                59,
+                                59,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、このプレイは見れません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                5,
+                                "二穴バイブ"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                247,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                127,
+                                127,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                59,
+                                59,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\#まだ、このプレイは見れません。"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "選択"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 403,
+                            "indent": 0,
+                            "parameters": [
+                                6,
+                                null
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 1,
+                            "parameters": [
+                                "キャンセル"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 117,
                             "indent": 0,
                             "parameters": [
-                                71
+                                222
                             ]
                         },
                         {
                             "code": 121,
                             "indent": 0,
                             "parameters": [
-                                17,
-                                17,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
+                                59,
+                                59,
                                 1
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR Position -1 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR AB_Pose 9 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR LB_Pose 11 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR OC 1.1 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR UC 4 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR UW 0 1"
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                5,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 1,
-                            "parameters": [
-                                "※服がズボンの時の処理"
-                            ]
-                        },
-                        {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 1,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR UC 5 1"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                6,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                7,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                11,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                12,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボン"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                19,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 1,
-                            "parameters": [
-                                "※服が水着の時の処理"
-                            ]
-                        },
-                        {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                3
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                20,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                21,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                98,
-                                0,
-                                22,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 119,
-                            "indent": 2,
-                            "parameters": [
-                                "水着"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR player_C 0 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR player_PC 0 1"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                111,
-                                111,
-                                0,
-                                0,
-                                30
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                112,
-                                112,
-                                0,
-                                0,
-                                408
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                113,
-                                113,
-                                0,
-                                0,
-                                370
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                107,
-                                107,
-                                0,
-                                0,
-                                75
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                108,
-                                108,
-                                0,
-                                0,
-                                408
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                109,
-                                109,
-                                0,
-                                0,
-                                800
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                126,
-                                126,
-                                0,
-                                0,
-                                119
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "低身長時補正"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデルのスケール変更 FR $v111"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデルの移動 FR $v112 $v113 1"
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                2,
-                                "BG_Toilet",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                10,
-                                "AE_peep2",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2dモデル固定パラメータ設定 FR Erection 1 1"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "Live2d表情設定 FR Toilet"
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                60
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "Liquid",
-                                    "volume": 50,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "SceneManager._scene._spriteset._fadeSprite.setColor(255, 255, 255);"
-                            ]
-                        },
-                        {
-                            "code": 221,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "toilet",
-                                    "volume": 25,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                18,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>（⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　出てきちゃう…⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　見てたのばれちゃうかも…⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どっかにいっちゃおー！）"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                125
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                10
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                158
                             ]
                         },
                         {
@@ -25661,7 +25229,7 @@
                 }
             ],
             "x": 19,
-            "y": 29
+            "y": 6
         }
     ]
 }
