@@ -35734,7 +35734,7 @@
                         "switch2Valid": false,
                         "variableId": 2,
                         "variableValid": true,
-                        "variableValue": 22
+                        "variableValue": 21
                     },
                     "directionFix": true,
                     "image": {
@@ -35953,7 +35953,7 @@
                         "switch2Valid": false,
                         "variableId": 2,
                         "variableValid": true,
-                        "variableValue": 23
+                        "variableValue": 22
                     },
                     "directionFix": false,
                     "image": {
