@@ -213,8 +213,8 @@
         "name": "キャラメイク画面",
         "order": 3,
         "parentId": 2,
-        "scrollX": 849.5,
-        "scrollY": 895.5
+        "scrollX": 533.5,
+        "scrollY": 895
     },
     {
         "id": 25,
@@ -222,7 +222,7 @@
         "name": "お店2階",
         "order": 22,
         "parentId": 10,
-        "scrollX": 778.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -240,7 +240,7 @@
         "name": "アトリエ2階",
         "order": 19,
         "parentId": 15,
-        "scrollX": 778.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -249,8 +249,8 @@
         "name": "OP",
         "order": 4,
         "parentId": 2,
-        "scrollX": 1047.5,
-        "scrollY": 887.5
+        "scrollX": 1070.5,
+        "scrollY": 887
     },
     {
         "id": 29,
@@ -258,8 +258,8 @@
         "name": "回想部屋",
         "order": 5,
         "parentId": 2,
-        "scrollX": 849.5,
-        "scrollY": 895.5
+        "scrollX": 533.5,
+        "scrollY": 895
     },
     {
         "id": 30,
@@ -294,7 +294,7 @@
         "name": "自販機",
         "order": 29,
         "parentId": 4,
-        "scrollX": 1047.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -303,7 +303,7 @@
         "name": "自販機内部",
         "order": 30,
         "parentId": 4,
-        "scrollX": 1047.5,
+        "scrollX": 849.5,
         "scrollY": 895.5
     },
     {
@@ -465,8 +465,8 @@
         "name": "ヒメノ湖",
         "order": 13,
         "parentId": 16,
-        "scrollX": 1629.5,
-        "scrollY": 1512.5
+        "scrollX": 1534.5,
+        "scrollY": 1488.5
     },
     {
         "id": 53,
